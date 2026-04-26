@@ -1,29 +1,20 @@
-<!-- CAPA -->
+<!-- Divisoria -->
 <p align="center">
-  <img src="https://i.ibb.co/NdGZ138y/Azul-sem-texto.png" width="100%" />
+  <img src="https://lh5.ggpht.com/_BJo2sJZzI3g/SZXdB8xojEI/AAAAAAAADI8/GRdaDkML-xA/s400/barrinha31.gif" width="100%"/>
 </p>
 <br>
-<!-- NOME -->
-<h1 align="center">🌙 Herica Cristhyna</h1>
 
-<!-- DIGITAÇÃO -->
+
+<!-- Nome -->
+<h1 align="center" style="font-size: 52px;">🌙 Herica Cristhyna</h1>
+
+<!-- Animação -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=7FD3FF&size=26&center=true&vCenter=true&width=800&lines=Desenvolvedora+Front-End+em+treinamento;Criando+interfaces+modernas+e+bonitas;Apaixonada+por+design+e+tecnologia" />
-</p>
-
-<!-- 🌌 ANIMAÇÃO (MAIS PRÓXIMA) -->
-<p align="center" style="margin-top: -10px;">
-  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="330"/>
-</p>
-
-<!-- ✨ DIVISÓRIA PRINCIPAL -->
-<p align="center">
-  <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0545.gif" width="100%"/>
-</p>
-
-<br>
-
-<!-- SOBRE -->
+  <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="320"/>
+  
+<div>
+  
 <h2 align="center">🧠 Sobre mim</h2>
 
 <p align="center">
@@ -96,6 +87,6 @@
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/l1J9EdzfOSgfyueLm/giphy.gif" width="1000"/>
-  <img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0545.gif" width="100%"/>
+  <img src="https://lh5.ggpht.com/_BJo2sJZzI3g/SZXdB8xojEI/AAAAAAAADI8/GRdaDkML-xA/s400/barrinha31.gif" width="100%"/>
 </p>
 
